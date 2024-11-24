@@ -32,7 +32,7 @@
 
 #### Clone the repository and go to the repository folder
 ```shell
-git clone
+git clone git@github.com:webency-projects/maddevs_assessment_task.git
 ```
 
 #### Set up a Virtual Environment and activate it
